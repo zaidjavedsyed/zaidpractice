@@ -1,2 +1,2 @@
 # zaidpractice
-just a practice repository
+Change made through bash
